@@ -1,4 +1,4 @@
-<h1>Salão de Beleza Studio Hair - Site Responsivo</h1>
+<h1>Salão de Beleza Feito para Damas - Site Responsivo</h1>
 <p>Este é um projeto de design e desenvolvimento de um site responsivo para o Restaurante Studio Hair ( marca fictícia ). O objetivo é proporcionar uma experiência agradável tanto em dispositivos móveis quanto em desktops. O site inclui as seguintes seções:</p>
 
 <h2>Funcionalidades</h2>
